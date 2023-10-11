@@ -1,11 +1,15 @@
 # Quality System
 
+Portuguese - Brazil - Software Quality System
+
+-----------------------------------------------------------
+
 A simple register system using VBA with other tools as DOCS.
 
 The program have with function create reports about: brokens itens, fail machines and an infinity possibilities.
 The informations are showed in a EXCEL table.
 
-Have a right way to use the program, it's explained in slides along with the program Apresentação do Software.pptx
+Have a right way to use the program, it's explained in slides along with the program "Apresentação do Software.pptx"
 
 What can you make with the program?
 
